@@ -2,4 +2,4 @@
 
 ## Dicas, truques e projetos com CSS
 
-![CSS 3](/assets/css3-logo.png)
+![CSS 3](/assets/img/css3-logo.png)
